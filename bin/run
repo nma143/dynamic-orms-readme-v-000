@@ -14,7 +14,7 @@ song2 = Song.new(name: "Turning Tables", album: "21", rank: "2")
 puts "song name: " + song2.name
 puts "song album: " + song2.album
 puts "song rank: " + song2.rank
-song.save
+song2.save
 
 
 
